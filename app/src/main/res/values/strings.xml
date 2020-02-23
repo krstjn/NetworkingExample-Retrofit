@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Networking example Retrofit</string>
+    <string name="sOrigin">Origin: </string>
+    <string name="sRandomCharacter">Get new random character</string>
+    <string name="sImage">image</string>
+    <string name="sLocation">Location: </string>
+    <string name="sStatus">Status: </string>
+    <string name="sName">Name: </string>
+</resources>
